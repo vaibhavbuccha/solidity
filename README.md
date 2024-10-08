@@ -7,4 +7,5 @@ Solidity is a high level, statically type programming languages, Designed specia
 3. <a href="./CURD.sol" >CURD Operation using solidity.</a>
 4. <a href="./datatypes.sol" >Explore available datatypes in solidity.</a>
 5. <a href="./loops.sol" >Loops in solidity.</a>
+5. <a href="./constructor_modifiers.sol" >Constructor, Require keyword and Modifiers in solidity.</a>
 
